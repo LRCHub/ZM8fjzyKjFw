@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "平井 堅 「瞳をとじて（Ken Hirai 30th Anniversary Ken's Bar - One Night Special !! -）」",
+  "base_artist": "平井 堅",
+  "createdAt": "2025-12-25T15:28:51.483493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳をとじて",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_瞳をとじて_平井_堅.txt"
+    }
+  ]
+}
